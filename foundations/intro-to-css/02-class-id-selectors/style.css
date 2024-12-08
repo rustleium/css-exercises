@@ -1,0 +1,19 @@
+.odd-p {
+  background-color: #eeacb8;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue-div {
+  color: blue;
+  font-size: 36px;
+}
+
+.unique-p {
+  font-size: 24px;
+}
+
+#green-div {
+  background-color: rgb(134, 233, 109);
+  font-size: 24px;
+  font-weight: bold;
+}
